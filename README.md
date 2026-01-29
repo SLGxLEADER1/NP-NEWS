@@ -20,9 +20,9 @@
 
 | Component | Minimum Requirement | Recommended |
 | :--- | :--- | :--- |
-| **OS** | Windows 7 / 8 / 10 / 11 | Windows 10 (64-bit) |
-| **CPU** | Dual Core (Intel/AMD) | Quad Core or higher |
-| **RAM** | 2 GB | 4 GB or more |
+| **OS** | Windows 7 / 8 / 10 / 11 | Windows 11 (64-bit) |
+| **CPU** | i3 2nd Gen | i3 2nd Gen or higher |
+| **RAM** | 4 GB | 4 GB or more |
 | **GPU** | Intel HD Graphics 4000 | Dedicated GPU (1GB+) |
 
 ---
@@ -32,7 +32,7 @@
 Follow these steps to install NoobPlayer 2.0 correctly:
 
 1.  **Download:** Get the setup file from the provided link.
-2.  **Extract:** Use WinRAR or 7-Zip to extract the files.
+2.  **Open EXE:** Easy Installation Process.
 3.  **Password:** The extraction password is required. You can find it in the video linked below.
 4.  **Install:** Run the setup as **Administrator**.
 5.  **Configure:** Go to Settings > Engine and allocate CPU/RAM based on your PC's capacity.
